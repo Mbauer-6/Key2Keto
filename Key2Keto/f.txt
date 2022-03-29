@@ -1,0 +1,41 @@
+f,f
+f,f
+Male,6'0",233,33
+Modified Keto
+Trackers
+Sunday
+no goals
+0.0,0.0
+Monday
+no goals
+0.0,0.0
+Tuesday
+this is a goal
+7.5,18.0
+Wednesday
+no goals
+0.0,0.0
+Thursday
+no goals
+0.0,0.0
+Friday
+no goals
+0.0,0.0
+Saturday
+no goals
+0.0,0.0
+Recipes
+Sunday
+no recipes
+Monday
+no recipes
+Tuesday
+Blueberry Macadamia Nut Waffles or Pancakes,Lamb and Asparagus with Tangy Sauce,Keto Creamed Spinach,Keto Italian Cookies
+Wednesday
+no recipes
+Thursday
+no recipes
+Friday
+no recipes
+Saturday
+no recipes

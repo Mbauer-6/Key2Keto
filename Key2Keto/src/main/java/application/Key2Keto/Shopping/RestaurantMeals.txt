@@ -1,0 +1,17 @@
+Modified Keto,Chili's,Classic Sirloin with side of Steamed Broccoli,220,17.0,0.0,15.0
+Modified Keto,Starbucks,Creminelli Sopressata Monterey Jack Snack Tray,220,17.0,0.0,15.0
+Light Keto,Applebee's,Grilled Chicken Breast with a Side Salad of Fire-Grilled Veggies,300,15.5,6.0,41.0
+Light Keto,Olive Garden,Herb-Grilled Salmon,460,29.0,4.0,45.0
+Modified Keto,IHOP,Build-Your-Own Omelette with Avocado and Spinach,520,40.0,9.0,31.0
+Modified Keto,Outback Steakhouse, 5-oz Grilled Lobster Tail with Roasted Butter Garlic Topping and Sauteed Mushrooms,720,57.0,8.0,34.0
+Classic Keto,The Cheesecake Factory,Pan-Seared Branzino with Lemon Butter,1130,93.0,17.0,50.0
+Light Keto,TGI Fridays,Million Dollar Cobb Salad with Grilled Chicken,520,37.0,8.0,34.0
+Modified Keto,Buffalo Wild Wings,Traditional Wings with Celery Sticks,685,52.0,4.0,47.0
+Modified Keto,Red Lobster,Wild-Caught Snow Crab Legs with Asparagus,640,43.0,4.0,59.0
+Light Keto,Carrabba's Italian Grill,Chicken Marsala,585,34.0,6.0,56.0
+Light Keto,Cracker Barrel Old Country Store,Lemon Pepper Grilled Rainbow Trout with Steamed Broccoli and Turnip Greens,470,18.0,10.0,57.0
+Light Keto,Bonefish Grill,Grilled Atlantic Salmon with Green Beans,480,28.5,1.0,52.0
+Modified Keto,Shake Shack,Single ShackBurger on Lettace Wrap,325,24.0,2.0,23.0
+Light Keto,Denny's,Grilled Haddock,515,34.0,6.0,44.0
+Modified Keto,Jimmy John's,Tuna Salad and Provolone Cheese Unwich,395,31.0,5.0,21.0
+Classic Keto,Red Robin,Guacamole Bacon Burger,725,53.5,11.0,45.0

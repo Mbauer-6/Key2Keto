@@ -1,0 +1,187 @@
+#title {
+	-fx-text-fill: #2A2F33;
+	-fx-font-size: 75px;
+}
+
+#WholeMainPane {
+	-fx-background-color: #93A7AA;
+}
+
+#MainTabsBox {
+	-fx-background-color: #93A7AA;
+}
+
+.label {
+	-fx-text-fill: #2A2F33;
+	-fx-font-family: Verdana;
+	-fx-font-size: 14px;
+}
+
+.button {
+	-fx-background-color: #2A2F33;
+	-fx-display: inline-block;
+	-fx-cursor: pointer;
+	-fx-text-fill: #FFFFFF;
+	-fx-font-family: Verdana;
+	-fx-font-size: 14px;
+	-fx-font-weight: bold;
+}
+
+.button:hover {
+	-fx-background-color: #415052;
+}
+
+.combobox {
+	-fx-font-family: Verdana;
+	-fx-font-size: 14px;
+}
+
+
+#UsernameField {
+	-fx-background-color: #C4D4D9;
+	-fx-text-fill: #2A2F33;
+	-fx-font-family: Verdana;
+	-fx-font-weight: bold;
+	-fx-font-size: 18px;
+	-fx-border-style: solid;
+	-fx-border-width: 3px;
+	-fx-border-color: #7D9CA1;
+}
+
+#DashboardLabels {
+	-fx-text-fill: #2A2F33;
+	-fx-font-weight: bold;
+	-fx-font-family: Verdana;
+	-fx-font-size: 16px;
+}
+
+#DashUpper {
+	-fx-background-color: #C4D4D9;
+}
+
+.chart {
+	-fx-background-color: #C4D4D9;
+}
+
+.chart-title {
+	-fx-text-fill: #2A2F33;
+    	-fx-font-size: 14px;
+}
+
+.axis-label {
+    	-fx-text-fill: #2A2F33;
+}
+
+.chart-vertical-grid-lines {
+   	-fx-stroke: #2A2F33;
+}
+
+.chart-horizontal-grid-lines {
+    	-fx-stroke: #2A2F33;
+}
+
+.default-color0.chart-series-line { 
+	-fx-stroke: #2A2F33; 
+}
+
+.default-color0.chart-line-symbol {
+    -fx-background-color: #93A7AA;
+}
+
+
+
+#AccountTitleLabel {
+	-fx-text-fill: #2A2F33;
+	-fx-font-weight: bold;
+	-fx-font-family: Verdana;
+	-fx-font-size: 18px;
+}
+
+#AccountTitleBox {
+	-fx-background-color: #C4D4D9;
+}
+
+#DarkRows {
+	-fx-background-color: #A7B5B9;
+}
+
+#LightRows {
+	-fx-background-color: #C4D4D9;
+}
+
+
+
+#DayOfWeekClicked {
+	-fx-background-color: #415052;
+}
+
+#DayOfWeekNotClicked {
+	-fx-background-color: #2A2F33;
+}
+
+#DayOfWeekNotClicked:hover {
+	-fx-background-color: #415052;
+}
+
+
+
+#RecipeCategoryBox {
+	-fx-background-color: #C4D4D9;
+}
+
+#DeleteButtons {
+	-fx-background-color: #2A2F33;
+	-fx-display: inline-block;
+	-fx-cursor: pointer;
+	-fx-text-fill: #FFFFFF;
+	-fx-font-family: Verdana;
+	-fx-font-size: 12px;
+	-fx-font-weight: bold;
+}
+
+#DeleteButtons:hover {
+	-fx-background-color: #415052;
+}
+
+#DetailBackground {
+	-fx-background-color: #FFFFFF;
+}
+
+#DetailLabels {
+	-fx-text-fill: #2A2F33;
+	-fx-font-family: Verdana;
+	-fx-font-size: 12px;
+}
+
+#DetailLargeLabels {
+	-fx-text-fill: #2A2F33;
+	-fx-font-weight: bold;
+	-fx-font-family: Verdana;
+	-fx-font-size: 14px;
+}
+
+#ShoppingViewButton {
+	-fx-background-color: #253028;
+	-fx-font-family: Verdana;
+	-fx-font-weight: bold;
+	-fx-font-size: 12px;
+	-fx-text-fill: #FFFFFF;
+}
+#ShoppingView {
+	-fx-background-color: #93A7AA;
+}
+#ShoppingPane {
+	-fx-background-color: #C4D4D9;
+}
+#ShoppingViewTitles {
+	-fx-font-family: Verdana;
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+	-fx-padding: 5 5 5 5;
+	-fx-alignment: center;
+}
+#IngredientList {
+		-fx-font-family: Verdana;
+	-fx-font-weight: normal;
+	-fx-font-size: 8px;
+}
